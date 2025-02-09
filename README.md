@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lyy-iiis
-- 👀 I’m interested in Reinforcement Learning and Robotics
+- 👀 I’m interested in Computer Vision and Robotics
 - 🌱 I’m currently learning Multi-modal Learning and Diffusion model
-- 💞️ I’m looking to collaborate on Deep Learning and Reinforcement Learning
+- 💞️ I’m looking to collaborate on anything about Deep Learning, especially Vision and Reinforcement Learning
 - 📫 How to reach me luyy24@mails.tsinghua.edu.cn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: More to discover here

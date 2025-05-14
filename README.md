@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyy-iiis
+- 👋 Hi, I’m Yiyang Lu, a freshman student at IIIS, Tsinghua University
 - 👀 I’m interested in Computer Vision and Robotics
 - 🌱 I’m currently learning Multi-modal Learning and Diffusion model
 - 💞️ I’m looking to collaborate on anything about Deep Learning, especially Vision and Reinforcement Learning

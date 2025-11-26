@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yiyang Lu, a freshman student at IIIS, Tsinghua University
-- 👀 I’m interested in Computer Vision and Robotics
+- 👋 Hi, I’m Yiyang Lu, a sophomore student at IIIS, Tsinghua University
+- 👀 I’m interested in Computer Vision and Generative Models
 - 🌱 I’m currently learning Normalizing Flow and Diffusion model
 - 💞️ I’m looking to collaborate on anything about Deep Learning, especially Vision and Reinforcement Learning
 - 📫 How to reach me luyy24@mails.tsinghua.edu.cn
